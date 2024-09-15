@@ -36,6 +36,7 @@ const Contact = () => {
         () => {
           console.log('SUCCESS!');
           clearInput()
+          alert('Message sent successfully')
         },
         (error) => {
           console.log('FAILED...', error.text);
