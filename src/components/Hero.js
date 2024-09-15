@@ -18,7 +18,7 @@ const Hero = () => {
                             <h1 className="mb-5 md:text-5xl text-3xl font-bold text-red-900">
                                 We bring your consoles back to life
                             </h1>
-                            <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500">We are a team of experienced hardware technicians who repair all kinds of devices, your's included.</div>
+                            <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500">We are a team of experienced hardware technicians who repair all kinds of devices, yours included.</div>
                             <div className="mb-4 space-x-0 md:space-x-2 md:mb-8">
                                 <Link to="/contact" className="text-white bg-red-900 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-2xl sm:w-auto sm:mb-0">
                                     Request a Repair
