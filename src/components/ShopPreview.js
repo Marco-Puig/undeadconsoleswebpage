@@ -15,11 +15,9 @@ const Portfolio = () => {
                     <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">                            
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3 min-h-max">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">New 3DS XL Systems</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Nintendo Systems</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                    Our Business Management System is a robust and easily scalable system that streamlines business operations, increase efficiency, and ultimately drive growth and profitability for your business.
-                                    With features such as employee management, finance control, and many more modules to effectively manage all aspects of a business.
-                                    All data is stored in the cloud and as such it is easily accessible from all devices and from any location.
+                                    We offer a wide range of both Handheld and Console Nintendo systems. Systems such as the Nintendo Switch, Nintendo 3DS, Nintendo DS, and many more are available for purchase. Our systems are guaranteed to be in good working condition and are available at affordable prices.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <a href="https://www.ebay.com/usr/kazi-8477" className="text-white bg-red-900 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
@@ -32,11 +30,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">School Management Portal</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Sega Systems</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                    Our all encompassing School Management Portal is the only solution needed for any institution.
-                                    The School Management Portal (SMP) is a tool that can help educational institutions of all kinds manage their administrative tasks, automate processes, and streamline communication between teachers, students, parents, and administrators. 
-                                    The software can be used to manage all aspects of school operations, including student enrollment, attendance, grades, schedules, and more.
+                                    We offer a wide range of both Handheld and Console Sega systems. Systems such as the Sega Genesis, Sega Dreamcast, Sega Saturn, and many more are available for purchase. Our systems are guaranteed to be in good working condition and are available at affordable prices.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <a href="https://www.ebay.com/usr/kazi-8477" className="text-white bg-red-900 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
@@ -60,10 +56,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Payroll Management System</h4>
+                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Xbox Systems</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                    The Payroll Management System automates the process of employee payments for businesses and organizations of different sizes. It helps to ensure that your employees get paid accurately and on time, while also reducing the time and effort required to manage payroll manually, with this system in place, you enjoy benefits such as: 
-                                    increased accuracy in employee payments. It can also integrate into an existing management system through well-structured APIs.
+                                    We offer a wide range of both Handheld and Console Xbox systems. Systems such as the Xbox One, Xbox 360, Xbox Series X/S, and many more are available for purchase. Our systems are guaranteed to be in good working condition and are available at affordable prices.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <a href="https://www.ebay.com/usr/kazi-8477" className="text-white bg-red-900 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
@@ -76,10 +71,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Event Management System</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Playstation Systems</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                    Our event management system helps to manage different types of events, whether weddings, burials or any kind of event. With an easily customizable menu, you get to define your user experience and make your event fully customizable and memorable.
-                                    With use cases already recorded for quite a number of events, we can assure you of a stress-less event mangement platform.
+                                    We offer a wide range of both Handheld and Console Playstation systems. Systems such as the Playstation 4, Playstation 3, Playstation 2, and many more are available for purchase. Our systems are guaranteed to be in good working condition and are available at affordable prices.   
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <a href="https://www.ebay.com/usr/kazi-8477" className="text-white bg-red-900 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
