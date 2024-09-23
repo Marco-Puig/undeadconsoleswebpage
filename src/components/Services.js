@@ -7,7 +7,8 @@ import img4 from '../images/consultation.svg';
 const Services = () => {
 
     return (
-        <div id="services" className="my-2 py-3" >
+        <div id="services" className="py-3" >
+            <div className="bg-gray-100 py-6">
             <section data-aos="zoom-in-down">
 
                         <h2 className="my-2 text-center text-3xl text-red-900 uppercase font-bold">Services</h2>
@@ -62,6 +63,7 @@ const Services = () => {
                         </div>
                     </div>
             </section>
+        </div>
         </div>
     )
 }

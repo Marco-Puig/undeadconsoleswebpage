@@ -8,9 +8,9 @@ import Services from '../components/Services';
 const Home = () => {
     return (
         <>
-            <Hero />            
+            <Hero />    
+            <Services />        
             <ShopPreview />
-            <Services />
             <Footer />
         </>
 
