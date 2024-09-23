@@ -53,7 +53,7 @@ const Footer = () => {
                             <Link to="#" className="text-red-900 hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Sell Consoles</Link>
                         </li>
                         <li className="mb-2">
-                            <Link to="#" className="text-red-900 hover:text-red-900 hover:tracking-wider transition duration-250 ease-in-out">Refurbish Consoles</Link>
+                            <Link to="#" className="text-red-900 hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Refurbishing</Link>
                         </li>
                         </ul>
                     </div>
